@@ -6,3 +6,4 @@
 - 📫 How to reach me: fasferraz@gmail.com
 - ⚡ Fun fact: ...
 
+Next project: gNB application similar to my eNB application, but for 5G.
